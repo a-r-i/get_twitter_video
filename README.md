@@ -7,8 +7,10 @@ get_twitter_video
 
 require 'post_twitter_video_to_youtube.rb'
 
+```ruby:
 instance = GetTwitterVideo.new("consumer_key","consumer_secret")
 instance.get_twitter_video("twitter_id")
+```
 
 ## Licence
 
