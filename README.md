@@ -17,5 +17,8 @@ instance.get_twitter_video("twitter_id")
 MIT
 
 ## Author
+Github
+[https://github.com/a-r-i](https://github.com/a-r-i)
 
-[ari](https://github.com/a-r-i)
+Qiita
+[http://qiita.com/a-r-i](http://qiita.com/a-r-i)
